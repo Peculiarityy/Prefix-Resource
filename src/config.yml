@@ -1,0 +1,23 @@
+#Prefix Plugin Configuration | Pecularityy Creation
+
+#You must have a PERMISSIONS PLUGIN
+#Vault is a required resource
+
+
+prefix_length: 20
+
+#Messages Begin here!
+Messages:
+ Prefix: '&b&lPrefix Plugin&8 ➟ '
+ Permission_Error: '&7You do not have the permission &cprefix.setprefix&7! Contact an Administrator if you believe this is an error'
+ Usage_Error: '&7Please just type &b/prefix&7.'
+ Set_Prefix: '&7Please type your new prefix into chat, enter &breset&7 to reset your prefix or type &bcancel&7 to exit!'
+ Cancel_Message: '&7You have canceled the prefix setting process.'
+ Reset_Message: '&7Your prefix has been reset!'
+ Prefix_To_Long: '&7Your prefix can be no longer than &b20&7 characters.'
+ Prefix_Set_To: '&7Your prefix has been set to {newprefix}'
+ Banned_Words: '&7That is a banned word! Please refrain from using that word'
+
+bannedwords:
+ - Fuck
+ - Owner

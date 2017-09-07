@@ -1,0 +1,7 @@
+name: PrefixPlugin
+main: plugin.pecularityy.main.Main
+version: 1.0
+author: Pecularityy
+commands:
+  prefix:
+    description: Give you and your players the ability to create a custom prefix
